@@ -1,0 +1,11 @@
+NAME: SYLVESTER TATE
+PENNKEY: STATE
+SUBMITTED SOURCE FILES:	shredder.c
+OVERVIEW OF WORK COMPLETED: Was not able to complete the assignment due to some unforeseen conflicts. The command is basically funcitonally dead. 
+Code Description:
+There are three functions for sending a kill signal, setting the timer, and writing a prompt to standard out. 
+All code before the while loop in the main function is focused on handling the timeout parameter. 
+
+How to Run:
+simply run the makefile by typing "make"
+
